@@ -1,6 +1,7 @@
 import random
 import sys
 import time
+print("all working")
 # copy 1 - 50 for average tests
 stocks = ["lemonade stand","thiefs","activism","books","drug dealers","sea travel","birth control","happiness","tourism","assasins","prisons","guns","poopsi","cooky cola","vaccines","birth rate","death rate","cars","renewable energy","corruption","AI","food","nuclear weapons","illumanti","weapon dealers","government","coal","gas","oil","rich people"]
 stockowned = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
